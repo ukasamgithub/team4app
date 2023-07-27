@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "To check system analysis"
+echo "To check with system analysis"
 df -h
 free -g
 lscpu
